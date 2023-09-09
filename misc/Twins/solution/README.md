@@ -1,0 +1,1 @@
+An unorthodox challenge but the solution lies in simply comparing the 2 files (I did it using this ![site](https://www.diffchecker.com/text-compare/)) and noting down the missing characters. Once you get them all, surround it with PCTF{} and you got your flag :)
